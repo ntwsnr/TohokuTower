@@ -19,3 +19,4 @@ C:\Users\<username>\AppData\LocalLow\NewTown
 ## 権利表記
 * 東北ずん子キャラクターイラスト素材：https://zunko.jp/
 * BGM：hitoshi by Senses Circuit https://www.senses-circuit.com/
+* SE：OtoLogic https://otologic.jp/, 効果音ラボ https://soundeffect-lab.info/
